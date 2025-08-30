@@ -1,0 +1,19 @@
+{
+    "data": [
+        { 
+            "id": 1,
+            "name": "iPhone 99 pro max ultra super mega", 
+            "price": 1928.2
+        },
+        { 
+            "id": 2,
+            "name": "Headshot with noise cancellation", 
+            "price": 159.44
+        },
+        { 
+            "id": 3,
+            "name": "BMEG pro max", 
+            "price": 999.2
+        }
+    ]
+}
